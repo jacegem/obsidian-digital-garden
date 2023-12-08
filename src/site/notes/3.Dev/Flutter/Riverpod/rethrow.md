@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-dev/flutter/riverpod/rethrow/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3-dev/flutter/riverpod/rethrow/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -12,4 +12,3 @@ try{
 }
 ```
 
-[[3.Dev/Flutter/Riverpod/rethrow\|rethrow]]
